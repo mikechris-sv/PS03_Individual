@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mike Christian\\Source\\Repos\\Problem Set 03\\PS_03_LeapYear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04A31E37-098D-4FAB-B898-427B4F2ACD35}|PS_03_LeapYear\\PS_03_LeapYear.csproj|c:\\users\\mike christian\\source\\repos\\problem set 03\\ps_03_leapyear\\ps_03_leapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A31E37-098D-4FAB-B898-427B4F2ACD35}|PS_03_LeapYear\\PS_03_LeapYear.csproj|solutionrelative:ps_03_leapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9620E91C-2FD5-4306-8B67-E22BFD8C6A7F}|PS_03_TriangleArea\\PS_03_TriangleArea.csproj|c:\\users\\mike christian\\source\\repos\\problem set 03\\ps_03_leapyear\\ps_03_trianglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9620E91C-2FD5-4306-8B67-E22BFD8C6A7F}|PS_03_TriangleArea\\PS_03_TriangleArea.csproj|solutionrelative:ps_03_trianglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mike Christian\\Source\\Repos\\Problem Set 03\\PS_03_LeapYear\\PS_03_TriangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "PS_03_TriangleArea\\Program.cs",
+              "ToolTip": "C:\\Users\\Mike Christian\\Source\\Repos\\Problem Set 03\\PS_03_LeapYear\\PS_03_TriangleArea\\Program.cs",
+              "RelativeToolTip": "PS_03_TriangleArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:37:18.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mike Christian\\Source\\Repos\\Problem Set 03\\PS_03_LeapYear\\PS_03_LeapYear\\Program.cs",
+              "RelativeDocumentMoniker": "PS_03_LeapYear\\Program.cs",
+              "ToolTip": "C:\\Users\\Mike Christian\\Source\\Repos\\Problem Set 03\\PS_03_LeapYear\\PS_03_LeapYear\\Program.cs",
+              "RelativeToolTip": "PS_03_LeapYear\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:36:42.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
